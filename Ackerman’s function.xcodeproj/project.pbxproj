@@ -1,0 +1,74 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		F0D58E7C2A614FB600C77155 /* Ackerman.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Ackerman.java; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		F0D58E752A614F8300C77155 = {
+			isa = PBXGroup;
+			children = (
+				F0D58E7C2A614FB600C77155 /* Ackerman.java */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		F0D58E762A614F8300C77155 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1500;
+			};
+			buildConfigurationList = F0D58E792A614F8300C77155 /* Build configuration list for PBXProject "Ackerman’s function" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F0D58E752A614F8300C77155;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		F0D58E7A2A614F8300C77155 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		F0D58E7B2A614F8300C77155 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F0D58E792A614F8300C77155 /* Build configuration list for PBXProject "Ackerman’s function" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F0D58E7A2A614F8300C77155 /* Debug */,
+				F0D58E7B2A614F8300C77155 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F0D58E762A614F8300C77155 /* Project object */;
+}
